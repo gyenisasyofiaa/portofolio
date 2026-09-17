@@ -15,8 +15,8 @@ const projects: Project[] = [
     description: "Aplikasi kasir sederhana untuk mengelola produk dan transaksi.",
     technologies: "Next.js · React · TypeScript · Tailwind CSS",
     image: "/images/portofolio-3.png",
-    liveDemo: "https://URL-PROJECT-KAMU.vercel.app",
-    github: "#",
+    liveDemo: "https://minipos-gyenisa.vercel.app",
+    github: "https://github.com/gyenisasyofiaa/minipos",
   },
   {
     title: "Calculator",
@@ -39,7 +39,7 @@ const projects: Project[] = [
     description: "Mengembangkan aplikasi catatan berbasis React yang mendukung penambahan, penghapusan, pencarian, dan pengelolaan catatan berbasis state.",
     technologies: "React · JavaScript · HTML · CSS",
     image: "/images/portofolio-2.png",
-    liveDemo: "https://my-personal-notes-zeta.vercel.app/",
+    liveDemo: "https://my-personal-notes-gyenisa.vercel.app",
     github: "https://github.com/gyenisasyofiaa/my-personal-notes",
   },
 ];
