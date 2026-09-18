@@ -19,8 +19,8 @@ const contacts: ContactItem[] = [
   },
   {
     title: "LinkedIn",
-    value: "linkedin.com/in/gyenisasyofia",
-    href: "https://www.linkedin.com/in/gyenisasyofia",
+    value: "linkedin.com/in/gyenisa-syofia",
+    href: "https://www.linkedin.com/in/gyenisa-syofia",
     external: true,
   },
   {
